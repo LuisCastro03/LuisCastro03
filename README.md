@@ -1,4 +1,4 @@
-- # 💫 About Me:
+- # 💫 Sobre mim:
 ## Olá! Eu sou o Luis Castro<br><br>- 🔭 Hoje trabalho com Full Stack<br>- 🌱 Estudando Java
 
 
